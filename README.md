@@ -13,8 +13,8 @@
     //传入包含图片URL的数组
     cycleView.imageURLs = [self loadImageURLs];
 ```
-
-
+#效果图
+<img src="https://github.com/AnnieAri/BannerDemo/blob/master/BannerDemo/Document/2016-10-13%2012.25.37.gif?raw=true" >
 
 
 
